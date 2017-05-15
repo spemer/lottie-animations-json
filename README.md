@@ -8,6 +8,7 @@
 ## See examples
 - http://www.lottiefiles.com/230-paginationpage-indicator - Page Indicator(Pagination)
 - http://www.lottiefiles.com/232-tab-transition-animation - Tab Transition
+- http://www.lottiefiles.com/234-floating-action-button - Floating Action Button
 
 
 
