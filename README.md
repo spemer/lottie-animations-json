@@ -6,9 +6,10 @@
 
 
 ## See examples
-- http://www.lottiefiles.com/230-paginationpage-indicator - Page Indicator(Pagination)
+- http://www.lottiefiles.com/230-paginationpage-indicator - Page Indicator (Pagination)
 - http://www.lottiefiles.com/232-tab-transition-animation - Tab Transition
 - http://www.lottiefiles.com/235-floating-action-button-w-sub-buttons - Floating Action Button
+- https://www.lottiefiles.com/382-favorite-icon-star - Favorite Icon (Star)
 
 
 
