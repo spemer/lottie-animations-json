@@ -1,5 +1,5 @@
 ## lottie-animations-json  
-Simple and Minimal animations for mobie and web UI/UX (.json)  
+Simple and Minimal animations for mobie and web UI/UX(.json) runs with Airbnb's open-source [Lottie][lottie]  
 You can download the animated .json and .aep files from each folders😀  
   
 ### See examples  
@@ -10,11 +10,12 @@ You can download the animated .json and .aep files from each folders😀
   
 ### Visit  
 * __[My Website][spemer]__  
-* [Lottie files][lottie]
+* [Lottie files][lottiefiles]
   
 
 [spemer]: https://spemer.com/
-[lottie]: https://www.lottiefiles.com/
+[lottie]: https://airbnb.design/lottie/
+[lottiefiles]: https://www.lottiefiles.com/
 
 [pagination]: http://www.lottiefiles.com/230-paginationpage-indicator
 [tab]: http://www.lottiefiles.com/232-tab-transition-animation
