@@ -1,19 +1,22 @@
-# lottie-animations-json
-- Simple and Minimal animations for mobie and web UI/UX (.json)
-- You can download the animated .json and .aep files from each folders
+## lottie-animations-json  
+Simple and Minimal animations for mobie and web UI/UX (.json)  
+You can download the animated .json and .aep files from each folders😀  
+  
+### See examples  
+* [Favorite Icon (Star)][star]
+* [Page Indicator(Pagination)][pagination]
+* [Tab Transition][tab]
+* [Floating Action Button][fab]  
+  
+### Visit  
+* __[My Website][spemer]__  
+* [Lottie files][lottie]
+  
 
+[spemer]: https://spemer.com/
+[lottie]: https://www.lottiefiles.com/
 
-
-
-## See examples
-- http://www.lottiefiles.com/230-paginationpage-indicator - Page Indicator (Pagination)
-- http://www.lottiefiles.com/232-tab-transition-animation - Tab Transition
-- http://www.lottiefiles.com/235-floating-action-button-w-sub-buttons - Floating Action Button
-- https://www.lottiefiles.com/382-favorite-icon-star - Favorite Icon (Star)
-
-
-
-
-
-## Visit
-- http://spemer.com
+[pagination]: http://www.lottiefiles.com/230-paginationpage-indicator
+[tab]: http://www.lottiefiles.com/232-tab-transition-animation
+[fab]: http://www.lottiefiles.com/235-floating-action-button-w-sub-buttons
+[star]: https://www.lottiefiles.com/382-favorite-icon-star
